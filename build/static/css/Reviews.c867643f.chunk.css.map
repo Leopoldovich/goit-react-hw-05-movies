@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Reviews/Reviews.module.css"],"names":[],"mappings":"AAAA,4BACE,eACF","file":"Reviews.c867643f.chunk.css","sourcesContent":[".reviewsList {\n  text-align: left;\n}\n"]}

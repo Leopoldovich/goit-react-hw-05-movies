@@ -1,0 +1,43 @@
+{
+  "files": {
+    "Cast.css": "/static/css/Cast.4a2d84e8.chunk.css",
+    "Cast.js": "/static/js/Cast.480d6d3f.chunk.js",
+    "Cast.js.map": "/static/js/Cast.480d6d3f.chunk.js.map",
+    "HomePage.css": "/static/css/HomePage.ce49eb4f.chunk.css",
+    "HomePage.js": "/static/js/HomePage.e158d61c.chunk.js",
+    "HomePage.js.map": "/static/js/HomePage.e158d61c.chunk.js.map",
+    "MovieDetailsPage.css": "/static/css/MovieDetailsPage.5296084d.chunk.css",
+    "MovieDetailsPage.js": "/static/js/MovieDetailsPage.23790447.chunk.js",
+    "MovieDetailsPage.js.map": "/static/js/MovieDetailsPage.23790447.chunk.js.map",
+    "MoviesPage.css": "/static/css/MoviesPage.068e6fde.chunk.css",
+    "MoviesPage.js": "/static/js/MoviesPage.f554047e.chunk.js",
+    "MoviesPage.js.map": "/static/js/MoviesPage.f554047e.chunk.js.map",
+    "Reviews.css": "/static/css/Reviews.c867643f.chunk.css",
+    "Reviews.js": "/static/js/Reviews.99beb517.chunk.js",
+    "Reviews.js.map": "/static/js/Reviews.99beb517.chunk.js.map",
+    "main.css": "/static/css/main.ece641af.chunk.css",
+    "main.js": "/static/js/main.df62e209.chunk.js",
+    "main.js.map": "/static/js/main.df62e209.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a857e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a857e2.js.map",
+    "static/css/7.fe79023c.chunk.css": "/static/css/7.fe79023c.chunk.css",
+    "static/js/7.8597b813.chunk.js": "/static/js/7.8597b813.chunk.js",
+    "static/js/7.8597b813.chunk.js.map": "/static/js/7.8597b813.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/7.fe79023c.chunk.css.map": "/static/css/7.fe79023c.chunk.css.map",
+    "static/css/Cast.4a2d84e8.chunk.css.map": "/static/css/Cast.4a2d84e8.chunk.css.map",
+    "static/css/HomePage.ce49eb4f.chunk.css.map": "/static/css/HomePage.ce49eb4f.chunk.css.map",
+    "static/css/MovieDetailsPage.5296084d.chunk.css.map": "/static/css/MovieDetailsPage.5296084d.chunk.css.map",
+    "static/css/MoviesPage.068e6fde.chunk.css.map": "/static/css/MoviesPage.068e6fde.chunk.css.map",
+    "static/css/Reviews.c867643f.chunk.css.map": "/static/css/Reviews.c867643f.chunk.css.map",
+    "static/css/main.ece641af.chunk.css.map": "/static/css/main.ece641af.chunk.css.map",
+    "static/js/7.8597b813.chunk.js.LICENSE.txt": "/static/js/7.8597b813.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a857e2.js",
+    "static/css/7.fe79023c.chunk.css",
+    "static/js/7.8597b813.chunk.js",
+    "static/css/main.ece641af.chunk.css",
+    "static/js/main.df62e209.chunk.js"
+  ]
+}
